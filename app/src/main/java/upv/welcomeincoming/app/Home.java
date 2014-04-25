@@ -1,6 +1,7 @@
 package upv.welcomeincoming.app;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.graphics.Typeface;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
@@ -82,6 +83,8 @@ public class Home extends ActionBarActivity {
         itemKitDev.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                Intent intent = new Intent(Home.this, TranslateActivity.class);
+                Home.this.startActivity(intent);
 
             }
         });
