@@ -14,5 +14,40 @@
     <string name="menu_option3">Info</string>
     <string name="menu_option4">Kitdev</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_translate">TranslateActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btnSay">Say somethig in english</string>
+    <string name="btnListen">Listen in spanish</string>
+    <string name="sinConn">Without connection. Check your mobile settings.</string>
+    <string name="btn_OK">OK</string>
+    <string name="err_audio">Audio error, try again please</string>
+    <string name="err_client">Client error, try again please</string>
+    <string name="err_network">Network error, check settings please</string>
+    <string name="err_server">Server error, check settings please</string>
+    <string name="err_no_match">No match error, try again please</string>
+    <string name="err_no_TTS">Error in speaker. Try again later.</string>
+    <string name="err_no_text_TTS">There is not text to speak.</string>
+    <string name="err_install_TTS">Please, install text to speech service of Android.</string>
+    <string name="title_activity_speak">SpeakActivity</string>
+    <string name="title_activity_speaker">SpeakerActivity</string>
+    <string name="btnRepeat">Repeat</string>
+    <string name="btnBack">Go Back</string>
+    <string name="txt_1">Donde esta la escuela de informatica</string>
+    <string name="txt_1_en">Where is the computer science university</string>
+    <string name="txt_2">Donde esta la cafeteria mas cercana</string>
+    <string name="txt_2_en">Where is the school cafeteria near here</string>
+    <string name="txt_3">Cual es mi horario</string>
+    <string name="txt_3_en">Which is my schedule</string>
+    <string name="txt_4">Donde esta la parada de autobus</string>
+    <string name="txt_4_en">Where is the bus stop near here</string>
+    <string name="txt_5">Donde esta la parada de metro</string>
+    <string name="txt_5_en">Where is the tram stop near here</string>
+    <string name="txt_6">Donde esta secretaria</string>
+    <string name="txt_6_en">Where is secretary office</string>
+    <string name="txt_7">Donde esta la oficina de relaciones internacionales</string>
+    <string name="txt_7_en">Where is International office</string>
+    <string name="txt_8">Donde esta la oficina de Programas Internacionales de Intercambio</string>
+    <string name="txt_8_en">Where is the Office of International Exchange Programs</string>
+
 
 </resources>
